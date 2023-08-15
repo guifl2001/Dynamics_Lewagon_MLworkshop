@@ -32,9 +32,9 @@ jupyter-notebook
 
 ou no google colab
 
-[![Colab - notebook 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guifl2001/Dynamics_Lewagon_MLworkshop/blob/main/1.%20Linear%20Regression%20-%20Salary%20Predictions.ipynb)
+Notebook 1 - [![Colab - notebook 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guifl2001/Dynamics_Lewagon_MLworkshop/blob/main/1.%20Linear%20Regression%20-%20Salary%20Predictions.ipynb)
 
-[![Colab - notebook 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guifl2001/Dynamics_Lewagon_MLworkshop/blob/main/Optional%20Challenge%202.%20KNN%20-%20Customer%20Churn.ipynb)
+Notebook 2 - [![Colab - notebook 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guifl2001/Dynamics_Lewagon_MLworkshop/blob/main/Optional%20Challenge%202.%20KNN%20-%20Customer%20Churn.ipynb)
 
 2. Siga as instruções no notebook
 
